@@ -1,37 +1,5 @@
 ### ABOUT ME
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #0d1117;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
-
-
-    .quote blockquote {
-      margin: 0;
-      padding: 0;
-      font-size: 16px;
-      color: #c9d1d9;
-      line-height: 1.6;
-    }
-
-    .quote p {
-      margin: 10px 0;
-    }
-
-    .quote p:last-child {
-      margin-bottom: 0;
-    }
-  </style>
-</head>
+   
 <body>
   <div style="background-color: #161b22;
       border: 1px solid #333;
@@ -102,4 +70,3 @@ Telegram channel: [tap:unlock:](https://t.me/+L7A0RyRtJikxYTYy)
 
 * Ukrainian (Native)
 * English (Upper intermediate)
-
