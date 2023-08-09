@@ -14,15 +14,6 @@
       min-height: 100vh;
     }
 
-    .quote {
-      background-color: #161b22;
-      border: 1px solid #333;
-      border-radius: 8px;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-      padding: 20px;
-      margin: 20px;
-      max-width: 600px;
-    }
 
     .quote blockquote {
       margin: 0;
@@ -42,16 +33,22 @@
   </style>
 </head>
 <body>
-  <div class="quote">
-    <blockquote>
-      <p style="color: #dbc089ad;">🎇👋Greetings!👋🎇
+  <div style="background-color: #161b22;
+      border: 1px solid #333;
+      border-radius: 8px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      margin: 20px;
+      max-width: 600px;">
+    <blockquote >
+      <p style="color: #dbc089ad; margin: 10px">🎇👋Greetings!👋🎇
         <br>
         <p>I'm a Junior Python Developer with a distinctive twist – a background steeped in Skyrim modding. My journey through the intricacies of creating and optimizing game content has sharpened my problem-solving skills and attention to detail. This creative experience, coupled with my coding skills, allows me to craft efficient and engaging software solutions.</p>
         </p>
       <blockquote>
-      <p>Beyond coding, I also lead a Telegram channel where I explore the realms of psychology, philosophy, and stoicism. This endeavor showcases my curiosity-driven approach to life and my desire to share insightful ideas with a wider audience.</p>
+      <p margin: 10px 0;>Beyond coding, I also lead a Telegram channel where I explore the realms of psychology, philosophy, and stoicism. This endeavor showcases my curiosity-driven approach to life and my desire to share insightful ideas with a wider audience.</p>
       </blockquote>
-      <p style="color: #dbc089ad;">Thank you 💘✨ 
+      <p style="color: #dbc089ad; margin: 10px 0; margin-bottom: 0;">Thank you 💘✨ 
         <br>
         for taking a glimpse into my multifaceted background👀</p>
     </blockquote>
@@ -105,3 +102,4 @@ Telegram channel: [tap:unlock:](https://t.me/+L7A0RyRtJikxYTYy)
 
 * Ukrainian (Native)
 * English (Upper intermediate)
+
